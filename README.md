@@ -1,3 +1,5 @@
 # Codechef-Small-Factorials
-Problem  
+### Problem  
 ![](capture.PNG)
+### Manual Approach
+![](visual.jpg)
